@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 body {
@@ -40,7 +41,7 @@ body {
     padding: 20px;
 }
 
-.sidebar_db .db_p {
+.db_p {
     font-size: 2rem;
     color: white;
     font-weight: 600;
@@ -148,4 +149,9 @@ input {
     grid-row: 1/6;
 }
 
+.six h3 {
+    position: absolute;
+    bottom: 20px;
+    font-size: 20px;
+}
 
