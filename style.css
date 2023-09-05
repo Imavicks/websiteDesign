@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image:url(abstract-digital-grid-black-background.jpg);
+    background-image:url(images/abstract-digital-grid-black-background.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -118,7 +118,7 @@ input {
 }
 
 .two {
-    background-image: url(pexels-jess-bailey-designs-850359.jpg);
+    background-image: url(images/pexels-jess-bailey-designs-850359.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -140,7 +140,7 @@ input {
 }
 
 .six {
-    background-image: url(pexels-todd-trapani-1909331.jpg);
+    background-image: url(images/pexels-todd-trapani-1909331.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
